@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> BBC NEWS MIDDLE EAST</title>
+</head>
+<body style="background-color:white;margin-left: 0px;height:2500px;" align="left">
+
+<img src="http://static.bbci.co.uk/frameworks/barlesque/3.21.17/orb/4/img/bbc-blocks-dark.png" style="position:absolute; TOP:10px; LEFT:216px;" height="24" width="84"> &nbsp;&nbsp;
+
+<hr style="margin-top:0px;color:#dcdcdc;position:absolute; TOP:0px; LEFT:312px;border-right: 1px solid white;border-bottom: 1px solid white;border-top: 1px solid white;" width="1px" size="40">
+
+<img src="https://image.freepik.com/iconos-gratis/la-imagen-del-usuario-con-el-fondo-negro_318-34564.jpg" style="margin-top:4px; position:absolute; TOP:1%; LEFT:320px;padding-right: 12px;" height="20" width="20">
+<p style="line-height:30px;margin-top:0px; position:absolute; TOP:8px; LEFT:330px;padding-left: 12px;padding-right: 12px;font-size: 13px;font-family: helvetica;color:#333333">
+<b>
+<span style=" padding-left: 12px;padding-right: 12px;">Sign in </span>
+<span style=" padding-left: 12px;padding-right: 12px;">News </span>
+<span style=" padding-left: 12px;padding-right: 12px;">Sport</span>
+ <span style="padding-left: 12px;padding-right: 12px; ">Weather</span>
+ <span style=" padding-left: 12px;padding-right: 12px;">Shop </span>
+ <span style="padding-left: 12px;padding-right: 12px; ">Earth</span>
+ <span style=" padding-left: 12px;padding-right: 12px;"> Travel </span>
+ <form ><select  style="position:absolute;TOP:13px; LEFT:810px;border:1px solid white;padding-left: 0px;padding-right: 52px;width: 140px;size: 40px;font-weight: bold"><option> <b>More</b></option></select></form></b>
+
+<form ><input type="text" placeholder="Search" style="position:absolute;TOP:7px; LEFT:972px;border:1px solid white;padding-left: 5px;padding-right: 52px;font-weight: bold;width :95px; min-height:24px;background-color:#dcdcdc;" ></form>
+<form action="http://www.bbc.co.uk/search?q="><button type="submit" value="" style="position:absolute;TOP:8px; LEFT:1120px;border:1px solid white;padding-left: 0px;padding-right: 4px;font-weight: bold;size :5px; min-height:26px; background-color:#dcdcdc;border-color:#dcdcdc;"><img src="https://image.flaticon.com/icons/png/512/49/49116.png" width="15" height="15"></button></form></p>
+
+<hr style="margin-top:0px;color:#dcdcdc;position:absolute; TOP:0px; LEFT:410px;border-right: 1px solid white;border-bottom: 1px solid white;border-top: 1px solid white;" width="1px" size="40">
+
+<hr style="margin-top:0px;color:#dcdcdc;position:absolute; TOP:0px; LEFT:475px;border-right: 1px solid white;border-bottom: 1px solid white;border-top: 1px solid white;" width="1px" size="40">
+
+<hr style="margin-top:0px;color:#dcdcdc;position:absolute; TOP:0px; LEFT:540px;border-right: 1px solid white;border-bottom: 1px solid white;border-top: 1px solid white;" width="1px" size="40">
+
+<hr style="margin-top:0px;color:#dcdcdc;position:absolute; TOP:0px; LEFT:610px;border-right: 1px solid white;border-bottom: 1px solid white;border-top: 1px solid white;" width="1px" size="40">
+
+<hr style="margin-top:0px;color:#dcdcdc;position:absolute; TOP:0px; LEFT:675px;border-right: 1px solid white;border-bottom: 1px solid white;border-top: 1px solid white;" width="1px" size="40">
+
+<hr style="margin-top:0px;color:#dcdcdc;position:absolute; TOP:0px; LEFT:735px;border-right: 1px solid white;border-bottom: 1px solid white;border-top: 1px solid white;" width="1px" size="40">
+
+<hr style="margin-top:0px;color:#dcdcdc;position:absolute; TOP:0px; LEFT:800px;border-right: 1px solid white;border-bottom: 1px solid white;border-top: 1px solid white;" width="1px" size="40">
+
+<hr style="margin-top:0px;color:#dcdcdc;position:absolute; TOP:0px; LEFT:950px;border-right: 1px solid white;border-bottom: 1px solid white;border-top: 1px solid white;" width="1px" size="40">
+
+
+
+    
+<hr width="1347" size="56px" style="position:absolute; TOP:34px; LEFT:0px;font-size:14px;line-height:16px;background-color: #bb1919;margin-left: 0px;
+    border-color: #bb1919;
+    border-top: 1px solid #bb1919;">
+
+
+
+<hr width="1347" size="40" style="position:absolute; TOP:88px; LEFT:0px;background-color: #a91717;margin-left: 0px;
+    border-color: #a91717;
+    border-top: 1px solid #a91717;">
+<p style=" font-family:helvetica; line-height:10px;font-color:#222222;text-align: left;margin-left: 328px;margin-top: 125px;">
+<span style="font-size:20px;padding-right:12px;border-right: 1px solid #dcdcdc;">World</span>
+<span style="font-size:15px;padding-left:6px;padding-right:12px;border-right: 1px solid #dcdcdc;">Africa</span>
+<span style="font-size:15px;padding-left:6px;padding-right:12px;border-right: 1px solid #dcdcdc;">Australia</span>
+<span style="font-size:15px;padding-left:6px;padding-right:12px;border-right:1px solid #dcdcdc;">Latin America</span>
+<span style="font-size:15px;padding-left:6px;padding-right:12px;border-right: 1px solid #dcdcdc;">Europe </span>
+<span style="font-size:15px;padding-left:6px;border-right: 1px solid #dcdcdc;border-bottom:5px solid #a91717;padding-right:12px;">Middle East </span>
+<span style="font-size:15px;padding-right:12px;padding-left:6px;border-right: 1px solid #dcdcdc;">US and Canada</span></p>
+
+
+
+
+<p style="font-family:helvetica; font-size:32px;text-align:justify;margin-left: 328px;">
+
+<span style=" margin-left: 0px;margin-top:300px;margin-right:390px;padding-top:45px;text-align:justify"><b>Iran attacks: 'IS' hits parliament and </span>
+
+<span style=" margin-left: 0px;font-family:helvetica; font-size:32px;text-align:justify;margin-right:390px;">Khomeini mausoleum </span></b><br>
+
+<img src="http://woofwagon.com/wp-content/uploads/2014/07/time.png" height="15" width="15" ; STYLE="position:absolute; TOP:48%; LEFT:332px;"> 
+
+<span style="font-size:13px;border-right: 1px solid #dcdcdc;padding-right:12px;padding-left:2px;text-align:justify;margin-left: 20px;line-height: 0px;">45 minutes ago</span>
+ 
+<span style="font-size:13px;color:#a61b1b;text-align:justify;margin-left: 0px;">Middle East</span></p>
+
+
+
+ <p>
+ 
+ <hr style="margin-top: -20px;padding-top: 0px;margin-left: 330px;" align="Middle" width="700" color="#dcdcdc"><br>
+ 
+ <img src="https://ichef-1.bbci.co.uk/news/1536/cpsprodpb/B975/production/_96377474_dea8259c-798c-4c6c-a6f3-66d4f21373a5.jpg" width="700" aling="left" height="549" style="border :1px solid white ; margin-left: 330px;margin-right: 0px;">
+
+<hr  style="margin-left: 330px;font-size:14px;background-color:#0e0f0f;padding:16px;width: 701px;height: 17px;position:absolute; TOP:140%; LEFT:0px;">
+
+<p style="position:absolute; TOP:140%; LEFT:0%;color:#ececec;margin-left: 340px;font-size:14px;font-family: helvetica">This image, posted by Fars News, shows an explosion taking place outside the mausoleum</p>
+
+ <p style="line-height: 22px;font-size: 18px;margin-left: 330px;text-align: justify;width: 700px;font-family:helvetica;color:#404040;" >
+ <span style="line-height: 22px;font-size: 18px;margin-left: 0px;font-family:helvetica;text-align: justify;color:#404040;width: 667px;margin-top: 24px;"><b>Attackers have opened fire at the Iranian parliament and Ayatollah Khomeini's mausoleum in the capital, Tehran, causing a number of casualties.</b></span><br><br>
+ <span style="line-height: 22px;font-size: 18px;margin-left: 0px;font-family:helvetica;text-align: justify;color:#404040;width: 667px;margin-top: 24px;">Heavy gunfire could be heard on videos filmed from outside parliament, and there are reports that a security guard has been killed.<br><br>
+At the mausoleum several people were injured, and at least one suicide bomber died.
+The so-called Islamic State group (IS) has claimed it carried out the attacks.
+It did not provide any evidence.<br><br>
+Reports are coming in of a second suicide bombing at the shrine, dedicated to the founder of the Islamic Republic. Two or three gunmen were also involved in the initial attack there, news agencies reported.
+Iran's intelligence ministry said it had foiled a third attack by a "terrorist group" but did not name any organisation.<br><br>
+Latest updates
+The situation at the parliament remains confusing, with some reports of a suicide bomber there, and an an ongoing hostage situation - but the BBC cannot confirm these.<br><br>
+Fars news agency posted new pictures showing shooting around the building.
+An image showing a man with a gun looking out of the window, initially described as an attacker by Iranian media, actually shows a policeman.<br><br>
+But MP Seyyed Hossein Naqavi-Hosseini told the Isna news agency that three gunmen were still in the building, in MPs' offices.<br><br>
+A photo posted by Fars showed people inside the parliament building lowering a child out of a first-floor window to people waiting below.<br><br>
+State TV news channel Irinn said seven or eight people had been injured at the parliament by four attackers.
+The gunmen were carrying Kalashnikovs and one Colt pistol, reports said.
+Irna said one gunman had been arrested.<br><br>
+The governor of Tehran said one attacker at the mausoleum had detonated a suicide vest and another had been killed by security forces, state broadcaster Irib reports.<br><br>
+Ali Khalili from the mausoleum's public relations office told the state-run Irna news agency that one of the armed men had blown himself up in front of a bank outside the mausoleum.<br><br>
+However, Fars reported that the suicide bomber was a woman. Images from the scene showed the remains of the bomber, apparently clad in black clothes.
+Map showing Tehran</span><br>
+<hr style="border: 0.5px solid #dcdcdc ;margin-top: 0px;padding-top: 0px;margin-left: 330px;" align="Middle" width="700" size="0.5px" color="#dcdcdc">
+<span style="margin-top: 0px;padding-top: 2px;font-size: 20px;font-family: helvetica;color:#404040;text-align: left;margin-left: 0px;position:absolute; TOP:305%; LEFT:330px;">
+<b>Related topics</span><br></b><br>
+
+<form action="http://www.bbc.com/news/topics/13bba436-5d61-409b-82ec-2d2f4ecbe1e6/islamic-state-group">
+
+<input type="submit"  value="Islamic state group" style="margin-left:330px; background-color:white;text-align:justify;border: 1px solid #d2d2d2;
+    float: left;
+    font-weight: bold;
+    margin-right: 16px;
+    margin-top: 16px;
+    padding: 8px;
+"></form>
+
+<form action="http://www.bbc.com/news/topics/511accd7-6ee6-4dfb-8e2b-b236be8cb14c/iran">
+
+<input type="submit" value="Iran"  style="margin-left:20px;text-align: justify;background-color:white;border: 1px solid #d2d2d2;
+    float: left;
+    font-weight: bold;
+    margin-right: 16px;
+    margin-top: 16px;
+    padding: 8px;
+"><br><br><br><br>
+<hr style="border: 0.5px solid #dcdcdc; margin-top: 0px;padding-top: 0px;margin-left: 330px;" align="Middle" width="700" size="0.5px" color="#dcdcdc"><br>
+<span style="margin-top: 0px;padding-top: 0px;font-size: 23px;font-family: helvetica;color:#404040;text-align: left;margin-left: 0px;position:absolute; TOP:2050px; LEFT:330px;"><b>More about this story</b></span><br><br><br>
+<hr style="border: 5px solid #dcdcdc margin-top: 0px;padding-top: 0px;margin-left: 330px;" align="Middle" size="8px" width="700" color="#dcdcdc"></p>
+<p style="line-height: 22px;font-size: 18px;margin-left: 330px;text-align: justify;width: 700px;font-family:helvetica;color:#404040;">
+<a href="http://www.bbc.com/news/world-middle-east-40191711" style="text-decoration: none;color:#404040;"><b>Iran attacks will boost IS morale and trigger calls for revenge</b><br></a>
+7 June 2017<br><br><br>
+<b><a href="http://www.bbc.com/news/live/world-middle-east-40184696" style="text-decoration: none;color:#404040;">As it happened</b><br></a>
+7 June 2017<br><br><br>
+<b><a href="http://www.bbc.com/news/av/world-middle-east-40184383/security-and-ambulances-at-iran-s-parliament" style="text-decoration: none;color:#404040;">Video Ambulances attend Iran's parliament</b><br></a>
+7 June 2017<br><br><br>
+<b><a href="http://www.bbc.com/news/world-middle-east-14541327" style="text-decoration: none; color:#404040;">Iran country profile</b><br></a>
+6 hours ago<br></span>
+<hr style="border: 5px solid #dcdcdc margin-top: 0px;padding-top: 0px;margin-left: 330px;" align="Middle" size="8px" width="700" color="#dcdcdc"></p><br>
+</body>
+</html>
