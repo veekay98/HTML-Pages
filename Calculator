@@ -1,0 +1,58 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js">
+</script>
+<script type="text/javascript">
+	
+	$(document).ready(function(){
+    		                        $("#s1").click(function(){
+        	                         var s= $("#t1").val();
+        	                         $("#t1").val(s);
+        	                         var p= $("#t2").val();
+        	                         $("#t2").val(p);
+        	                         if($.isNumeric(s)&&$.isNumeric(p)){
+        	                         var r= $("#d1").val();
+        	                     	
+        	                     	if(r=="+"){
+        	                     		
+        	                     	 var d= parseInt(s) + parseInt(p);
+        	                     	}
+        	                     	if(r=="-"){
+        	                     	 d= s-p;
+        	                     	}
+        	                     	if(r=="*"){
+        	                     	 d= s*p;
+        	                     	}
+        	                     	if(r=="/"){
+        	                     	 d= s/p;
+        	                     	}
+        	                     	$("#t3").val(d);
+        	                     }
+        	                     else{ $("#tr").text("Not possible");}
+        	                     });
+        	                 });
+</script>
+<body>
+<div class="container">
+    <div class="row" style="text-align: center;width:1000px;height:500;border:5px solid #9d0019;background-color: #f10026;margin:10%;border-radius: 5px;">
+<p style="margin:20px;font-size: 20px;">CALCULATOR</p>
+<input type="text" name="name" id="t1" style="margin:0px;padding: 10px;">
+ <select id="d1">
+  <option value="+">+</option>
+  <option value="-">-</option>
+  <option value="*">*</option>
+  <option value="/">/</option>
+</select> 
+<input type="text" name="name1" id="t2" style="margin:0px;padding: 10px;">
+<button id="s1">=</button><br><br>
+<input type="text" name="name2" id="t3" style="margin:0px;padding: 10px;"><br><br>
+<p id="tr"></p>
+
+</div>
+</div>
+</body>
+</html>
