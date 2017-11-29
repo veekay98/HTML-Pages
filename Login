@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+<head><title>BLAH</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script></head>
+<body style="background-color: transparent;">
+
+<div class="container-fluid" style="background-color: transparent;">
+<div class="row" style="background-color: transparent;">
+<div class="col-sm-5" >
+
+</div>
+<div class="col-sm-2" ><div style="padding-top: 32px;padding-left: 110px;padding-right: 128px;padding-bottom: 10px">
+	</div>
+	  <h3 style="text-align: center;color: #333;font-weight: 600;padding: 20px">LOGIN</h3>
+	   <form action="file:///home/veekay/Desktop/chumma.htm" style="border: 2px solid grey;
+background-color: #ffffff;padding: 20px;font-size: 14px">
+      
+     
+      <div style="font-size: 14px;font-weight: 600;color: #24292e;padding-bottom: 20px"> Email address</div><div ><input type="text" name="Username" style="width: 142px"></div><br>
+      <div style="font-size: 14px;font-weight: 600;color: #24292e;">Password &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</div><br><div><input type="text" name="Password" style="width: 142px" ></div><br>
+      <button type="button" class="btn btn-success btn-block" style="color:#ffffff;font-weight:300">Submit</button>
+
+</form><br>
+
+
+</div><div class="col-sm-5"></div>
+</div></div>
+</body>
+</html>
